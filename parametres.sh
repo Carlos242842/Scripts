@@ -1,4 +1,3 @@
-
 function usage(){
     echo "USAGE: you have to enter almost 2 parametres"
     echo "parametres.sh x1 x2 [x3...xn]"
@@ -20,4 +19,3 @@ do
 done
 echo "La suma val ${SUMA}"
 echo "El produte val ${PRODUCTE}"
-
